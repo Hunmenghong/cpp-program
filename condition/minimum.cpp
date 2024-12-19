@@ -27,7 +27,4 @@ int main(){
     
     cout<<"Minimum = "<<minimum<<endl;
     
-
-
-
 }
