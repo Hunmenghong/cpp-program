@@ -23,7 +23,7 @@ int main(){
             grade ='A';
         }
         else if( gpa >= 85)
-        {
+        { 
             grade ='B';
         }
         else if ( gpa >= 75)
