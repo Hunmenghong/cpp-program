@@ -40,7 +40,7 @@ int main(){
         }
         else
         {
-            discount = 0;
+            discount = 0;      
         }
         
 
