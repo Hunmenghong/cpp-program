@@ -14,7 +14,8 @@
 using namespace std;
 
 int main(){
-    int opt; 
+    int opt;
+    cout<< "1. 30 day"<<endl; 
     cout<< "enter option : ";
     cin>>opt;
     switch(opt)
@@ -28,7 +29,6 @@ int main(){
     case 2:
         cout<< "option 2  "<<endl;
         
-    
     default:
     cout<< "NO option !! kom jes dak"<<endl;
         break;
