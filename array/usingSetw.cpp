@@ -47,6 +47,6 @@ int main(){
         cout<<setw(10)<<gender[i];
         cout<<setw(20)<<total[i];
         cout<<setw(20)<<setprecision(4)<<avg[i]<<endl;
-    }
+    }   
     
 }
