@@ -1,1 +1,1 @@
-sum = sum + number
+if (i % 2 == 0)
